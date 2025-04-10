@@ -1,0 +1,9 @@
+pydantic 
+pydantic-ai 
+langchain-community 
+tavily-python 
+beautifulsoup4 
+python-dotenv 
+requests
+duckduckgo-search
+composio
